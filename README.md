@@ -1,2 +1,1 @@
-# migupl.github.io
-A Simple Site
+# A Simple Site
